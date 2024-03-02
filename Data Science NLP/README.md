@@ -46,8 +46,8 @@ Workflow**
 3. Run the Jupyter Notebook to train and evaluate the models.
 
 
-**
-Dataset**
+
+**Dataset**
 The dataset used in this project is available from https://www.kaggle.com/c/fake-news/data.
 
 
@@ -61,5 +61,5 @@ The dataset used in this project is available from https://www.kaggle.com/c/fake
 
 3. Accountability: The developers and deployers of the model are accountable for its impact on society. It is important to use the model responsibly and to avoid unintended consequences.
 
-4.Privacy: The privacy of individuals should be protected when collecting and using data for fake news detection.
+4. Privacy: The privacy of individuals should be protected when collecting and using data for fake news detection.
 
