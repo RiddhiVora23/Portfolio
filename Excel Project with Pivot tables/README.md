@@ -42,18 +42,18 @@ Data Source
 
 This dashboard provides a visual summary of a store's annual report data, including:
 
-**Orders vs. Sales**: A line chart showing the trend of orders and sales throughout the year, along with the total count of orders and sales amount.
+* **Orders vs. Sales**: A line chart showing the trend of orders and sales throughout the year, along with the total count of orders and sales amount.
 
-**Sales: Men vs. Women**: A pie chart illustrating the distribution of sales between male and female customers.
+* **Sales: Men vs. Women**: A pie chart illustrating the distribution of sales between male and female customers.
 
-**Order Status**: A stacked bar chart depicting the breakdown of orders by status (delivered, refunded, returned, cancelled) for each month.
+* **Order Status**: A stacked bar chart depicting the breakdown of orders by status (delivered, refunded, returned, cancelled) for each month.
 
-**Top 5 States**: A bar chart showing the top 5 states by sales contribution, along with their respective percentages.
+* **Top 5 States**: A bar chart showing the top 5 states by sales contribution, along with their respective percentages.
 
-**Order**: Age vs. Gender: A stacked bar chart illustrating the distribution of orders by age group and gender.
+* **Order**: Age vs. Gender: A stacked bar chart illustrating the distribution of orders by age group and gender.
 
-**Sales**: Top 5 Channels: A bar chart displaying the top 5 sales channels, along with their corresponding sales figures.
+* **Sales**: Top 5 Channels: A bar chart displaying the top 5 sales channels, along with their corresponding sales figures.
 
-**Order**: Channels: A stacked bar chart showcasing the distribution of orders across different channels.
+* **Order**: Channels: A stacked bar chart showcasing the distribution of orders across different channels.
 
-**Top Products by Category**: A table presenting the top-selling products in each category (kurta, saree, set, western dress).
+* **Top Products by Category**: A table presenting the top-selling products in each category (kurta, saree, set, western dress).
