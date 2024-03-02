@@ -48,7 +48,11 @@ Seamless Analytics: Enables easy access and in-depth analysis of the data.
 **The project utilizes the following AWS services:**
 
 Spotify API
+
 AWS Lambda
+
 AWS S3 (Simple Storage Service)
+
 AWS Glue
+
 Amazon Athena
