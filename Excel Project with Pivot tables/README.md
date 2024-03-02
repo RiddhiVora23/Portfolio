@@ -1,4 +1,4 @@
-                                             **Store Annual Report Dashboard (Excel Pivot Tables)**
+                                             Store Annual Report Dashboard (Excel Pivot Tables)
 
 
 
