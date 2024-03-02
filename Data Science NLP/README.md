@@ -1,4 +1,4 @@
-Fake News Classifier Using LSTM, RNN, Bidirectional RNN
+**Fake News Classifier Using LSTM, RNN, Bidirectional RNN**
 
 
 
@@ -6,38 +6,38 @@ This project is a significant endeavor in the realm of natural language processi
 
 
 
-Project Objectives
+**Project Objectives**
 
-* Develop and evaluate various deep learning models, including Simple Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) networks, and Bidirectional LSTMs, to classify news articles as real or fake.
+Develop and evaluate various deep learning models, including Simple Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) networks, and Bidirectional LSTMs, to classify news articles as real or fake.
 
-* Implement a comprehensive data preprocessing pipeline, including text cleaning, stemming, and one-hot encoding, to prepare the data for model training.
+Implement a comprehensive data preprocessing pipeline, including text cleaning, stemming, and one-hot encoding, to prepare the data for model training.
 
 
 
-* Address the ethical considerations of fake news detection, including data bias, transparency, accountability, and privacy.
-Workflow
+**Address the ethical considerations of fake news detection, including data bias, transparency, accountability, and privacy.
+Workflow**
 
 1. Data Collection and Preprocessing
 
-    * Collect a dataset of labeled news articles.
+   Collect a dataset of labeled news articles.
 
-    * Preprocess the data using techniques such as text cleaning, stemming, and one-hot encoding.
+   Preprocess the data using techniques such as text cleaning, stemming, and one-hot encoding.
 
 2. Model Development
 
-    * Develop and train different deep learning models, including RNN, LSTM, and Bidirectional LSTM models, for fake news classification.
+   Develop and train different deep learning models, including RNN, LSTM, and Bidirectional LSTM models, for fake news classification.
 
 3. Model Evaluation
 
-    * Evaluate the performance of the models on a held-out test set.
+   Evaluate the performance of the models on a held-out test set.
 
 4. Ethical Considerations
 
-    * Discuss the ethical implications of fake news detection, including data bias, transparency, accountability, and privacy.
+   Discuss the ethical implications of fake news detection, including data bias, transparency, accountability, and privacy.
 
 
 
-Getting Started
+**Getting Started**
 
 1. Clone this repository.
 
@@ -46,19 +46,20 @@ Getting Started
 3. Run the Jupyter Notebook to train and evaluate the models.
 
 
-
-Dataset
+**
+Dataset**
 The dataset used in this project is available from https://www.kaggle.com/c/fake-news/data.
 
 
 
-Ethical Considerations
+**Ethical Considerations**
 
-* Data Bias: The accuracy of the model is dependent on the quality and bias of the training data. It is important to be aware of potential biases in the dataset and to mitigate their impact on the model's performance.
+1. Data Bias: The accuracy of the model is dependent on the quality and bias of the training data. It is important to be aware of potential biases in the dataset and to mitigate their impact on the model's performance.
 
-* Transparency: The inner workings of the model should be transparent to the extent possible. This allows users to understand how the model makes decisions and to identify potential biases.
 
-* Accountability: The developers and deployers of the model are accountable for its impact on society. It is important to use the model responsibly and to avoid unintended consequences.
+2. Transparency: The inner workings of the model should be transparent to the extent possible. This allows users to understand how the model makes decisions and to identify potential biases.
 
-* Privacy: The privacy of individuals should be protected when collecting and using data for fake news detection.
+3. Accountability: The developers and deployers of the model are accountable for its impact on society. It is important to use the model responsibly and to avoid unintended consequences.
+
+4.Privacy: The privacy of individuals should be protected when collecting and using data for fake news detection.
 
