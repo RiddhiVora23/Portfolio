@@ -40,6 +40,8 @@ These visualizations can aid stakeholders in making informed decisions and ident
 
 **Tools and Technologies**
 
+MS SQL
+
 Alteryx
 
 Data visualization tools (Tableau, Power BI)
