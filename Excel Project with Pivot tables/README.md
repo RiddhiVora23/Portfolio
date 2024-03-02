@@ -30,9 +30,12 @@ Data Source
 
 
 **Instructions**
-1. Download the Excel file: Download the project file (assuming it's an Excel file with the dashboard) from the GitHub repository.
-2. Open in Excel: Open the downloaded file in Microsoft Excel.
-3. Explore the Dashboard: Interact with the pivot tables and pivot charts to gain insights into the data and tailor the view to your specific interests.
+
+* Download the Excel file: Download the project file (assuming it's an Excel file with the dashboard) from the GitHub repository.
+
+* Open in Excel: Open the downloaded file in Microsoft Excel.
+  
+* Explore the Dashboard: Interact with the pivot tables and pivot charts to gain insights into the data and tailor the view to your specific interests.
 
 
 **Store Annual Report Dashboard**
