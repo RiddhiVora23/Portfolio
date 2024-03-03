@@ -2,7 +2,7 @@
 
 Spotify data pipeline: Extract, transform, and analyze using AWS, Lambda, Glue, Athena, and S3
 
-## **OBJECTIVE:**
+ **OBJECTIVE:**
 
 This project constructs a data pipeline on AWS to streamline the extraction, transformation, and analysis of Spotify data.
 
