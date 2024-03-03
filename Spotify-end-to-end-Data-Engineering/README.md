@@ -43,7 +43,7 @@ Efficiency: Triggers optimize data processing based on updates.
 Seamless Analytics: Enables easy access and in-depth analysis of the data.
 
 
-## **Services Used:**
+ **Services Used:**
 
 **The project utilizes the following AWS services:**
 
