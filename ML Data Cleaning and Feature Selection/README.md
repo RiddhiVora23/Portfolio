@@ -49,7 +49,7 @@ https://www.kaggle.com/code/pritech/bank-personal-loan-modelling/input
 
 •	Analyze feature importance using methods like correlation analysis and permutation importance.
 
-•	Employ feature selection techniques (e.g., chi-square test, information gain) to select the most relevant features for the prediction task.
+•	Employ feature selection techniques to select the most relevant features for the prediction task.
 
 **Model Training and Evaluation:**
 
