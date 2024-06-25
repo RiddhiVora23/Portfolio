@@ -44,6 +44,8 @@ MS SQL
 
 Alteryx
 
+Tableau
+
 Data visualization tools (Tableau, Power BI)
 
 
