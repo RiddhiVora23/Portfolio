@@ -7,18 +7,7 @@ select sum(revenue) as total_revenue,
 
 --2. KPI's for total_revenue,total_profit, total_orders, profit_margin with each sport
 select sport,
-	   Round(
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   sum(revenue),2) as total_revenue,
+	   Round(sum(revenue),2) as total_revenue,
 	   Round(sum(profit),2) as total_profit,
 	   count(*) as total_orders,
 	   sum(profit)/sum(revenue) *100.0 as profit_margin
