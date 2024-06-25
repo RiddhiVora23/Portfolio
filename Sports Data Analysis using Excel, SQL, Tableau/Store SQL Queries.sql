@@ -14,10 +14,7 @@ select sport,
 	   from orders
 	   group by sport
 	   order by profit_margin desc
-
-
-
-	   select* from orders
+select* from orders
 --3. no of customer rating and the averag rating
 
 select(
